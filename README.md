@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Saeful Rochmat**.<br>
 
-Saya seorang **Mahasiswa** di [UNIVERSITAS MAJALENGKA](https://unma.ac.id/).<br>
+Saya adalah **Mahasiswa Semester 6** di [UNIVERSITAS MAJALENGKA](https://unma.ac.id/).<br>
 
 Saya sekarang sedang belajar **Pengembangan Front-End & Back-End** di [Dicoding](https://www.dicoding.com/).<br>
 
