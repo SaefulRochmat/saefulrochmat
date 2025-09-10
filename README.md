@@ -16,7 +16,7 @@
 
 <p>
 Halo Semuanya👋 <br>
-Nama saya Saeful Rochmat, saya adalah mahasiswa lulusan Universitas Majalengka. <br>
+Nama saya Saeful Rochmat, saya adalah mahasiswa lulusan S1 Informatika di salah satu Universitas di Majalengka, Jawa Barat. <br>
 Saya memiliki ketertarikan akan hal programming, khususnya dalam bidang Front-End Web Developer. <br>
 Bahasa pemrogramman yang biasa saya gunakan yaitu <i>HTML, CSS, JS</i> dan <i>Framework</i> yang sering saya pakai yaitu <i>Next Js</i>. <br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.instagram.com/rochmat.saeful/?hl=en">instagram</a> aku ya.
